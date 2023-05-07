@@ -13,7 +13,8 @@
 
 ## 人工智能 <a href="#ai" id="ai"></a>
 
-* [人工智能](ai/ren-gong-zhi-neng.md)
+* [介绍](ai/intro.md)
+* [后记](ai/afterword.md)
 
 ## 数据分析与大数据 <a href="#data_analysis" id="data_analysis"></a>
 
@@ -25,4 +26,4 @@
 
 ***
 
-* [后记](afterword.md)
+* [后记](hou-ji.md)

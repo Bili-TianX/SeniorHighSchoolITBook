@@ -3,9 +3,3 @@
 人工智能（Artificial Intelligence，简称AI）是以机器为载体所展示出来的智能。[^1]
 
 [^1]: 必修一 P147
-
-
-
-Text prior to footnote reference.[^2]
-
-[^2]: Comments

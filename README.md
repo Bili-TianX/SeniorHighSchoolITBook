@@ -1,7 +1,2 @@
----
-description: Hello, world!
----
+# 前言
 
-# Page 1
-
-$$f(x) = \frac{1}{2}$$
